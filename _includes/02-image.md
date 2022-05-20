@@ -1,0 +1,1 @@
+![Image of a cat](../img/cute-3252251_1280.jpg)
